@@ -1,0 +1,6 @@
+telco dataset : learning rate 0.01 , no of iters = 5000
+adult: learning rate 0.01 , no of iters = 5000
+credit card: learning rate 0.01, no of iters= 5000
+
+
+learning rate 0.001  no of iters 5000
